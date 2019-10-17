@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CONVERSOR DE UNIDADES</string>
+    <string name="Error_Introducir_Vacio">Tienes que introducir un número</string>
+    <string name="textcelsius">Anders Celsius (1701-1744) fue un físico y astrónomo sueco. Es conocido por idear la escala de temperatura centígrada en la que se basa el sistema utilizado en la actualidad.</string>
+    <string name="textkelvin">Escala creada por William Thomson Kelvin, en el año 1848. La temperatura de 0 K es denominada \'cero absoluto\' y corresponde al punto en el que las moléculas y átomos de un sistema tienen la mínima energía térmica posible.</string>
+    <string name="textfah">El grado Fahrenheit es una escala de temperatura propuesta por Daniel Gabriel Fahrenheit en 1724. La escala establece como las temperaturas de congelación y ebullición del agua, 32 ℉ y 212 ℉, respectivamente.</string>
+    <string name="texteuros">El euro(€) es la moneda usada por las instituciones de la Unión Europea (UE), así como la moneda oficial de la eurozona, formada por 19 de los 28 Estados miembros de la UE. El 1 de enero de 2002, primer día de circulación de la nueva moneda europea, 1 euro se cambió por 0,9038 dólares estadounidenses (USD).</string>
+    <string name="textdolares">El dólar (representado por $) es el nombre de la moneda oficial de varios países, dependencias y regiones. El dólar estadounidense es la moneda en circulación más extendida del mundo.El signo se comienza a usar en la década de 1770 para referirse al real de a ocho español.</string>
+    <string name="textyenes">El Yen es la unidad monetaria utilizada en Japón y la tercera moneda más valorada en el mercado de divisas después del dólar estadounidense y el euro.</string>
+    <string name="textlibras">La libra esterlina(£) es la moneda del Reino Unido así como de las Dependencias de la Corona y de algunos territorios británicos de ultramar. La divisa fue introducida por el Rey Enrique II en 1158, aunque el nombre de esterlina no fue usado hasta después.</string>
+    <string name="textdenarios">El denario fue una antigua moneda romana de plata acuñada aproximadamente entre 268 a. C. y 360. El denario romano pesaba en un principio 4,54 gramos, pero progresivamente los distintos emperadores fueron reduciendo esta cantidad hasta los 1,70 gramos.</string>
+    <string name="textkilometros">Por cuestiones lógicas, las distancias entre ciudades o países suelen expresarse en kilómetros. La velocidad de los automóviles también se expresa, por motivos similares, en kilómetros por hora</string>
+    <string name="textmetros">El metro es la unidad coherente de longitud del Sistema Internacional de Unidades. Se define como la distancia que recorre la luz en el vacío en un intervalo de 1/299 792 458 s.</string>
+    <string name="textyardas">En consonancia con otras medidas basadas en las proporciones del cuerpo humano definidas por Vitrubio, una yarda corresponde a la mitad de la longitud de los brazos extendidos, lo que equivale a tres pies.</string>
+    <string name="textpies">El pie es una unidad de longitud de origen artificial, basada en el pie humano, ya utilizada por las civilizaciones antiguas. Para medir la longitud en países anglosajones como Estados Unidos, Canadá y Reino Unido se suele utilizar el pie. La excepción es en la aeronáutica, en que la altura se sigue midiendo en miles, y se utiliza en todo el mundo.</string>
+    <string name="textleguas">La legua es una antigua unidad de longitud que expresa la distancia que una persona, a pie, o en cabalgadura, puede andar durante una hora; es decir, es una medida itineraria.</string>
+    <string name="textfurlong">El furlong (estadio) es una unidad de longitud de medida del sistema anglosajón. El nombre completo de la unidad es Surveyor Furlong.Las distancias inferiores a una milla en las carreras de caballos en el Reino Unido, Irlanda y Estados Unidos se dan en furlongs, pero la unidad ha caído bastante en desuso.</string>
+    <string name="textrankine">Se denomina Rankine (símbolo R) a la escala de temperatura que se define midiendo en grados Fahrenheit sobre el cero absoluto, por lo que carece de valores negativos. Esta escala fue propuesta por el físico e ingeniero escocés William Rankine en 1859.</string>
+    <string-array name="medidas">
+        <item>Temperaturas</item>
+        <item>Distancias</item>
+        <item>Monedas</item>
+    </string-array>
+
+    <string-array name="monedas">
+        <item>Euros(€)</item>
+        <item>Dolares($)</item>
+        <item>Yenes(¥)</item>
+        <item>Libras(£)</item>
+        <item>Denarios romanos(X)</item>
+
+    </string-array>
+    <string-array name="temperaturas">
+        <item>Celsius(℃)</item>
+        <item>Kelvin(K)</item>
+        <item>Fahrenheit(°F)</item>
+        <item>Rankine(°R)</item>
+    </string-array>
+    
+    <string-array name="distancias">
+        <item>Kilometros</item>
+        <item>Metros</item>
+        <item>Yardas</item>
+        <item>Pies</item>
+        <item>Leguas</item>
+        <item>Furlong</item>
+    </string-array>
+</resources>
